@@ -5,7 +5,7 @@ public class Collection {
 
     //create an information method
     public void information(String name, int age, String color) {
-        System.out.print("Your neighbor's name is " + name + "." );
+        System.out.print("Your client's name is " + name + "." );
         if (age < 18)        //check if they are a minor or not
         {
             System.out.print(" They're a minor.");
