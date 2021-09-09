@@ -23,6 +23,8 @@ public class Collection {
         client.information("Karen", 30, "white"); //call the information method on the first client
         Collection clientTwo =  new Collection();   //create a second client object
         clientTwo.information("Chad", 14, "blue");  //call the information method on the second client
+        Collection clientThree = new Collection();
+        clientThree.information("John", 18, "green");
     }
 }
 
