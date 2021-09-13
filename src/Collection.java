@@ -1,4 +1,5 @@
 //purpose: store basic information that you collected because you're a professional spy
+//programmer: Rini K
 
 //create a main class
 public class Collection {
